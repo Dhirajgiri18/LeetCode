@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [3194-find-words-containing-character](https://github.com/Dhirajgiri18/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dhirajgiri18/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Dhirajgiri18/LeetCode/tree/master/0392-is-subsequence) |
+| [3194-find-words-containing-character](https://github.com/Dhirajgiri18/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
