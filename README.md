@@ -36,6 +36,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dhirajgiri18/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Dhirajgiri18/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Dhirajgiri18/LeetCode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhirajgiri18/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Dhirajgiri18/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
