@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3194-find-words-containing-character](https://github.com/Dhirajgiri18/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@
 | [0088-merge-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Dhirajgiri18/LeetCode/tree/master/0242-valid-anagram) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,4 +99,5 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhirajgiri18/LeetCode/tree/master/0035-search-insert-position) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
