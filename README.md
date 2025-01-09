@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0012-integer-to-roman](https://github.com/Dhirajgiri18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhirajgiri18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dhirajgiri18/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Dhirajgiri18/LeetCode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
