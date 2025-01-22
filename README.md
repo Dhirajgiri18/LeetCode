@@ -48,6 +48,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dhirajgiri18/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Dhirajgiri18/LeetCode/tree/master/0392-is-subsequence) |
+| [1542-consecutive-characters](https://github.com/Dhirajgiri18/LeetCode/tree/master/1542-consecutive-characters) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Dhirajgiri18/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/Dhirajgiri18/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Stack
