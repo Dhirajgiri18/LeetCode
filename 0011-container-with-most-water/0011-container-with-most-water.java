@@ -11,11 +11,13 @@ class Solution {
         // return maxArea;
 
         while(left<right){
-            int area = Math.min(height[left], height[right]) * (right-left);
-            maxArea = Math.max(maxArea, area);
+            // int area = Math.min(height[left], height[right]) * (right-left);
+            // maxArea = Math.max(maxArea, area);
             if(height[left]<height[right]){
+                maxArea = Math.max(maxArea, height[left] * (right - left));
                 left++;
             }else{
+                maxArea = Math.max(maxArea, height[right] * (right-left));
                 right--;
             }
         }
