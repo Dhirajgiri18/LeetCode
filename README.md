@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhirajgiri18/LeetCode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dhirajgiri18/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -104,6 +105,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dhirajgiri18/LeetCode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/Dhirajgiri18/LeetCode/tree/master/0392-is-subsequence) |
 ## Sliding Window
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhirajgiri18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dhirajgiri18/LeetCode/tree/master/0055-jump-game) |
 ## Linked List
 |  |
