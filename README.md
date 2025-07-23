@@ -27,6 +27,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhirajgiri18/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Dhirajgiri18/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/Dhirajgiri18/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -100,6 +101,7 @@
 | [0088-merge-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Dhirajgiri18/LeetCode/tree/master/0242-valid-anagram) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -127,6 +129,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhirajgiri18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhirajgiri18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhirajgiri18/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhirajgiri18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
@@ -143,6 +147,7 @@
 | [0045-jump-game-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dhirajgiri18/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +160,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhirajgiri18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
