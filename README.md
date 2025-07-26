@@ -168,4 +168,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Dhirajgiri18/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
