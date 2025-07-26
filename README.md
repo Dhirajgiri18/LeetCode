@@ -16,6 +16,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhirajgiri18/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Dhirajgiri18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhirajgiri18/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhirajgiri18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Dhirajgiri18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Dhirajgiri18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhirajgiri18/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Dhirajgiri18/LeetCode/tree/master/0392-is-subsequence) |
