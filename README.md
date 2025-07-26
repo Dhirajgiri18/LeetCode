@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhirajgiri18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhirajgiri18/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -43,6 +44,7 @@
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Dhirajgiri18/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0012-integer-to-roman](https://github.com/Dhirajgiri18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhirajgiri18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 | [0088-merge-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Dhirajgiri18/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -141,6 +145,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhirajgiri18/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhirajgiri18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Greedy
@@ -172,4 +177,8 @@
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Dhirajgiri18/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
