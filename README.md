@@ -59,6 +59,7 @@
 | [0009-palindrome-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Dhirajgiri18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhirajgiri18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Dhirajgiri18/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0268-missing-number) |
 ## String
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhirajgiri18/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Dhirajgiri18/LeetCode/tree/master/0050-powx-n) |
 ## Prefix Sum
 |  |
 | ------- |
