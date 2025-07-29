@@ -16,6 +16,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhirajgiri18/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Dhirajgiri18/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dhirajgiri18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhirajgiri18/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -59,6 +60,7 @@
 | [0009-palindrome-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Dhirajgiri18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhirajgiri18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Dhirajgiri18/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dhirajgiri18/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0268-missing-number) |
@@ -193,6 +195,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dhirajgiri18/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Database
 |  |
