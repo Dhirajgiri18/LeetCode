@@ -77,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/Dhirajgiri18/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dhirajgiri18/LeetCode/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0812-rotate-string) |
 | [1542-consecutive-characters](https://github.com/Dhirajgiri18/LeetCode/tree/master/1542-consecutive-characters) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Dhirajgiri18/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/Dhirajgiri18/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Dhirajgiri18/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Sorting
 |  |
