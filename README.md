@@ -184,11 +184,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhirajgiri18/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Dhirajgiri18/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhirajgiri18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Dhirajgiri18/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Dhirajgiri18/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
