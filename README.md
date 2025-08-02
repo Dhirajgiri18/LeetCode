@@ -30,6 +30,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Dhirajgiri18/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dhirajgiri18/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dhirajgiri18/LeetCode/tree/master/0229-majority-element-ii) |
@@ -68,6 +69,7 @@
 | [0066-plus-one](https://github.com/Dhirajgiri18/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhirajgiri18/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Dhirajgiri18/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Dhirajgiri18/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -226,4 +228,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhirajgiri18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dhirajgiri18/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
