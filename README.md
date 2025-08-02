@@ -187,12 +187,14 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhirajgiri18/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Dhirajgiri18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Dhirajgiri18/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Dhirajgiri18/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhirajgiri18/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Dhirajgiri18/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Dhirajgiri18/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Dhirajgiri18/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Prefix Sum
